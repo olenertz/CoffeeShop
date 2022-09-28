@@ -88,7 +88,16 @@ nav li a {
 }
 
 /* End Header */
-
+#top-announcement {
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 3px;
+    color: black;
+}
 /* Footer */
 
 footer {
