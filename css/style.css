@@ -79,7 +79,7 @@ header {
     vertical-align: middle;
 }
 
-nav { background: saddlebrown; }
+nav { background: chocolate; }
 
 nav li a { 
     color: white;
@@ -92,7 +92,7 @@ nav li a {
 /* Footer */
 
 footer {
-    background: saddlebrown;
+    background: chocolate;
     color: #fff;
     padding: 10px;  
     height: 100px;
