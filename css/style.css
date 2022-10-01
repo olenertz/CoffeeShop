@@ -61,7 +61,7 @@ img { border-style: none; }
 /* Header */
 
 header { 
-    background: Sienna; 
+    background-image: linear-gradient(black, grey); 
     padding: 10px;
 }
 
@@ -79,10 +79,10 @@ header {
     vertical-align: middle;
 }
 
-nav { background: black; }
+nav { background: white; }
 
 nav li a { 
-    color: white;
+    color: black;
     display: inline-block;
     padding: 10px 10px;
 }
@@ -94,7 +94,7 @@ nav li a {
     top: 0;
     right: 0;
     left: 0;
-    background-color:rgb(244, 14, 164);
+    background-color:rgb(240, 190, 83);
     text-align:center;
     padding-top: 5px;
     color:black;
@@ -181,6 +181,14 @@ background:url('../images/sprite.png')-80px 0;
     padding:0;
     border:none;
     background:url('/images/sprite.png')-320px 0;
+}
+.sprite-food {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('/images/sprite.png')-360px 0;
 }
 /* Footer */
 
