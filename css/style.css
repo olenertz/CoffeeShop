@@ -102,14 +102,6 @@ nav li a {
 /*End Announcement*/
 
 /* Sprites*/
-.sprite-palette {
-    display:block;
-    width:40px;
-    height:40px;
-    padding:0;
-    border:none;
-    background:url('../images/sprite.png') -40px 0;
-}
 .sprite-logo {
     display:block;
     width:40px;
@@ -118,7 +110,24 @@ nav li a {
     border:none;
     background:url('../images/sprite.png') 0 0;
 }
-.sprite-guitar {
+.sprite-art-icon {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('../images/sprite.png') 0 0;
+}
+.sprite-acoustic-jam {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('../images/sprite.png') -40px 0;
+}
+
+.sprite-coffee-cup {
     display:block;
     width:40px;
     height:40px;
@@ -126,7 +135,7 @@ nav li a {
     border:none;
     background:url('../images/sprite.png')-80px 0;
 }
-.sprite-mask {
+.sprite-comedy-icon {
 display:block;
 width:40px;
 height:40px;
@@ -134,7 +143,7 @@ padding:0;
 border:none;
 background:url('../images/sprite.png')-120px 0;
 }
-.sprite-controller{
+.sprite-drink_icon{
     display:block;
     width:40px;
     height:40px;
@@ -142,7 +151,7 @@ background:url('../images/sprite.png')-120px 0;
     border:none;
     background:url('/images/sprite.png')-160px 0;
 }
-.sprite-mask {
+.sprite-food_icon {
     display:block;
     width:40px;
     height:40px;
@@ -150,7 +159,7 @@ background:url('../images/sprite.png')-120px 0;
     border:none;
     background:url('/images/sprite.png')-200px 0;
 }
-.sprite-quill {
+.sprite-gaming-icon {
     display:block;
     width:40px;
     height:40px;
@@ -158,7 +167,7 @@ background:url('../images/sprite.png')-120px 0;
     border:none;
     background:url('/images/sprite.png')-240px 0;
 }
-.sprite-cup {
+.sprite-milk_icon {
     display:block;
     width:40px;
     height:40px;
@@ -166,7 +175,7 @@ background:url('../images/sprite.png')-120px 0;
     border:none;
     background:url('/images/sprite.png')-280px 0;
 }
-.sprite-utensils {
+.sprite-open-mic {
     display:block;
     width:40px;
     height:40px;
@@ -174,7 +183,7 @@ background:url('../images/sprite.png')-120px 0;
     border:none;
     background:url('/images/sprite.png')-300px 0;
 }
-.sprite-milk {
+.sprite-poetry-icon {
     display:block;
     width:40px;
     height:40px;
@@ -182,7 +191,7 @@ background:url('../images/sprite.png')-120px 0;
     border:none;
     background:url('/images/sprite.png')-340px 0;
 }
-.sprite-food {
+.sprite-sprite {
     display:block;
     width:40px;
     height:40px;
