@@ -44,8 +44,8 @@ img { border-style: none; }
 
 .container {
     width: 1200px;
-    margin: 0 auto;
-    padding: 0 15px;
+    margin: 10 auto;
+    padding: 10 15px;
     max-width: 100%;
     box-sizing: border-box;
 }
