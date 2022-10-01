@@ -124,7 +124,7 @@ nav li a {
     height:40px;
     padding:0;
     border:none;
-    background:url('../images/sprite.png') -40px 0;
+    background:url('../images/sprite.png') 0 0;
 }
 
 .sprite-coffee-cup {
@@ -133,7 +133,7 @@ nav li a {
     height:40px;
     padding:0;
     border:none;
-    background:url('../images/sprite.png')-80px 0;
+    background:url('../images/sprite.png')0 0;
 }
 .sprite-comedy-icon {
 display:block;
@@ -141,7 +141,7 @@ width:40px;
 height:40px;
 padding:0;
 border:none;
-background:url('../images/sprite.png')-120px 0;
+background:url('../images/sprite.png')0 0;
 }
 .sprite-drink_icon{
     display:block;
@@ -149,7 +149,7 @@ background:url('../images/sprite.png')-120px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-160px 0;
+    background:url('/images/sprite.png')0 0;
 }
 .sprite-food_icon {
     display:block;
@@ -157,7 +157,7 @@ background:url('../images/sprite.png')-120px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-200px 0;
+    background:url('/images/sprite.png')0 0;
 }
 .sprite-gaming-icon {
     display:block;
@@ -165,7 +165,7 @@ background:url('../images/sprite.png')-120px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-240px 0;
+    background:url('/images/sprite.png')0 0;
 }
 .sprite-milk_icon {
     display:block;
@@ -173,7 +173,7 @@ background:url('../images/sprite.png')-120px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-280px 0;
+    background:url('/images/sprite.png')0 0;
 }
 .sprite-open-mic {
     display:block;
@@ -181,7 +181,7 @@ background:url('../images/sprite.png')-120px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-300px 0;
+    background:url('/images/sprite.png')0 0;
 }
 .sprite-poetry-icon {
     display:block;
@@ -189,7 +189,7 @@ background:url('../images/sprite.png')-120px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-340px 0;
+    background:url('/images/sprite.png')0 0;
 }
 .sprite-sprite {
     display:block;
@@ -197,7 +197,7 @@ background:url('../images/sprite.png')-120px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-400px 0;
+    background:url('/images/sprite.png')0 0;
 }
 /* Footer */
 
