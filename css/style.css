@@ -90,12 +90,12 @@ nav li a {
 /* End Header */
 #top-announcement {
     position: relative;
-    top: 0;
-    right: 0;
-    left: 0;
-    background-color: yellow;
+    top: 10;
+    right: 05;
+    left: 05;
+    background-color: rgb(236, 0, 185);
     text-align: center;
-    padding-top: 3px;
+    padding-top: 5px;
     color: black;
 }
 /* Footer */
