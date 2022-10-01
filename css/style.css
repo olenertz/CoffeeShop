@@ -213,7 +213,6 @@ footer a { color: cornsilk; }
 .menu-item.additional-items .item-inner ul {
     display: inline-block;
     width: 50%;
-    float: left;
 }
 
 /* End Home Page Content */
