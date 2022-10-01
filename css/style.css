@@ -86,17 +86,101 @@ nav li a {
     display: inline-block;
     padding: 10px 10px;
 }
-
 /* End Header */
+
+/*Top Announcement*/ 
 #top-announcement {
     position: relative;
-    top: 10;
-    right: 05;
-    left: 05;
-    background-color: rgb(236, 0, 185);
-    text-align: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color:rgb(244, 14, 164);
+    text-align:center;
     padding-top: 5px;
-    color: black;
+    color:black;
+}
+/*End Announcement*/
+
+/* Sprites*/
+.sprite-palette {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('../images/sprite.png') 0 0;
+}
+.sprite-logo {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('../images/sprite.png') 0 0;
+}
+.sprite-guitar {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('../images/sprite.png')-40px 0;
+}
+.sprite-mask {
+display:block;
+width:40px;
+height:40px;
+padding:0;
+border:none;
+background:url('../images/sprite.png')-80px 0;
+}
+.sprite-controller{
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('/images/sprite.png')-120px 0;
+}
+.sprite-mask {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('/images/sprite.png')-160px 0;
+}
+.sprite-quill {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('/images/sprite.png')-200px 0;
+}
+.sprite-cup {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('/images/sprite.png')-240px 0;
+}
+.sprite-utensils {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('/images/sprite.png')-280px 0;
+}
+.sprite-milk {
+    display:block;
+    width:40px;
+    height:40px;
+    padding:0;
+    border:none;
+    background:url('/images/sprite.png')-320px 0;
 }
 /* Footer */
 
