@@ -108,7 +108,7 @@ nav li a {
     height:40px;
     padding:0;
     border:none;
-    background:url('../images/sprite.png') 0 0;
+    background:url('../images/sprite.png') -40px 0;
 }
 .sprite-logo {
     display:block;
@@ -124,7 +124,7 @@ nav li a {
     height:40px;
     padding:0;
     border:none;
-    background:url('../images/sprite.png')-40px 0;
+    background:url('../images/sprite.png')-80px 0;
 }
 .sprite-mask {
 display:block;
@@ -132,7 +132,7 @@ width:40px;
 height:40px;
 padding:0;
 border:none;
-background:url('../images/sprite.png')-80px 0;
+background:url('../images/sprite.png')-120px 0;
 }
 .sprite-controller{
     display:block;
@@ -140,7 +140,7 @@ background:url('../images/sprite.png')-80px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-120px 0;
+    background:url('/images/sprite.png')-160px 0;
 }
 .sprite-mask {
     display:block;
@@ -148,7 +148,7 @@ background:url('../images/sprite.png')-80px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-160px 0;
+    background:url('/images/sprite.png')-200px 0;
 }
 .sprite-quill {
     display:block;
@@ -156,7 +156,7 @@ background:url('../images/sprite.png')-80px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-200px 0;
+    background:url('/images/sprite.png')-240px 0;
 }
 .sprite-cup {
     display:block;
@@ -164,7 +164,7 @@ background:url('../images/sprite.png')-80px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-240px 0;
+    background:url('/images/sprite.png')-280px 0;
 }
 .sprite-utensils {
     display:block;
@@ -172,7 +172,7 @@ background:url('../images/sprite.png')-80px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-280px 0;
+    background:url('/images/sprite.png')-300px 0;
 }
 .sprite-milk {
     display:block;
@@ -180,7 +180,7 @@ background:url('../images/sprite.png')-80px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-320px 0;
+    background:url('/images/sprite.png')-340px 0;
 }
 .sprite-food {
     display:block;
@@ -188,7 +188,7 @@ background:url('../images/sprite.png')-80px 0;
     height:40px;
     padding:0;
     border:none;
-    background:url('/images/sprite.png')-360px 0;
+    background:url('/images/sprite.png')-400px 0;
 }
 /* Footer */
 
