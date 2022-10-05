@@ -293,7 +293,7 @@ padding: 10px;
         nav{height: 35px;}
         nav ul{padding-top:7px;}
         nav li {display: inline;}
-        nav li a{color: white;}
+        nav li a{color: red;}
         .menu-item {
             padding-top:10px;
             padding-bottom:10px;
